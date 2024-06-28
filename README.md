@@ -5,12 +5,13 @@
 
 👨‍💻 Explore my projects on [GitHub](https://github.com/Afaq-302)
 
-📫 You can reach me at [ufaq3022@gmail.com]
+📫 You can reach me at [ufaq3022@gmail.com](ufaq3022@gmail.com)
 
 ⚡ Fun fact: Solitude fuels my coding
 
 ### Connect with me:
 [LinkedIn Profile](https://www.linkedin.com/in/afaqy/)
+
 [Whatsapp](wa.me/+923129113445)
 
 
