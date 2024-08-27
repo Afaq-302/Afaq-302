@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Afaq Ahmad
-## A An enthusiastic coder from Pakistan
+## An enthusiastic coder from Pakistan
 
 🌱 Currently diving deep into the MERN STACK
 
