@@ -10,6 +10,8 @@
 ⚡ Fun fact: Solitude fuels my coding
 
 ### Connect with me:
+[Portfolio](http://afaq-dev.vercel.app/)
+
 [LinkedIn Profile](https://www.linkedin.com/in/afaqy/)
 
 [Whatsapp](wa.me/+923129113445)
