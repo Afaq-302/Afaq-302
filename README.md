@@ -11,14 +11,6 @@
   <a href="mailto:ufaq3022@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Afaq-302">
-    <img src="https://img.shields.io/badge/GitHub-Afaq--302-000?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-000?style=for-the-badge&logo=handshake" />
-</p>
-
 ---
 
 ## 🚀 About Me
