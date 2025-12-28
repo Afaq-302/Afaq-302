@@ -1,30 +1,66 @@
-# Hi there 👋, I'm Afaq Ahmad
-## An enthusiastic coder from Pakistan
+<!-- Banner (optional) -->
+<!-- ![Banner](https://your-banner-link.com/banner.png) -->
 
-🌱 Currently diving deep into the MERN STACK
+<h1 align="center">Hi there 👋, I'm Afaq Ahmad</h1>
+<h3 align="center">A passionate MERN-stack developer from Pakistan 🇵🇰</h3>
 
-👨‍💻 Explore my projects on [GitHub](https://github.com/Afaq-302)
+<p align="center">
+  <a href="https://afaq-resume.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/afaqy/" target="_blank">LinkedIn</a> •
+  <a href="https://wa.me/923129113445" target="_blank">WhatsApp</a> •
+  <a href="mailto:ufaq3022@gmail.com">Email</a>
+</p>
 
-📫 You can reach me at [ufaq3022@gmail.com](ufaq3022@gmail.com)
+<p align="center">
+  <a href="https://github.com/Afaq-302">
+    <img src="https://img.shields.io/badge/GitHub-Afaq--302-000?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-000?style=for-the-badge&logo=handshake" />
+</p>
 
-⚡ Fun fact: Solitude fuels my coding
+---
 
-### Connect with me:
-[Portfolio](https://afaq-resume.vercel.app/)
+## 🚀 About Me
+- 🌱 Currently sharpening my skills in **MERN Stack** (MongoDB, Express, React, Node.js)
+- 👨‍💻 Check out my work: **[github.com/Afaq-302](https://github.com/Afaq-302)**
+- 📫 Reach me anytime: **[ufaq3022@gmail.com](mailto:ufaq3022@gmail.com)**
+- ⚡ Fun fact: **Solitude fuels my coding** 🧠💻
 
-[LinkedIn Profile](https://www.linkedin.com/in/afaqy/)
+---
 
-[Whatsapp](wa.me/+923129113445)
+## 🤝 Let’s Connect
+- 🌐 Portfolio: https://afaq-resume.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/afaqy/
+- 💬 WhatsApp: https://wa.me/923129113445
 
+---
 
-### Languages and Tools:
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+## 🧰 Tech Stack
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000?style=flat-square&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
+
+---
+
+## 📌 What I’m building
+- ⚙️ Full-stack web apps with clean UI and scalable backend
+- 🧩 Reusable components, modern patterns, and performance-focused code
+- 🔐 Auth, APIs, dashboards, and real-world MERN projects
+
+---
+
+## ✨ Quote I live by
+> “Consistency beats motivation.” 🔥
