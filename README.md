@@ -5,7 +5,7 @@
 <h3 align="center">A passionate MERN-stack developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <a href="https://afaq-resume.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://afaq-cv.vercel.app/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/afaqy/" target="_blank">LinkedIn</a> •
   <a href="https://wa.me/923129113445" target="_blank">WhatsApp</a> •
   <a href="mailto:ufaq3022@gmail.com">Email</a>
