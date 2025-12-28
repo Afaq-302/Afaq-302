@@ -42,15 +42,15 @@
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
-
 ---
 
 ## 📌 What I’m building
-- ⚙️ Full-stack web apps with clean UI and scalable backend
-- 🧩 Reusable components, modern patterns, and performance-focused code
-- 🔐 Auth, APIs, dashboards, and real-world MERN projects
+- ⚙️ **Full-stack web apps** with clean UI, scalable backend, and production-ready structure  
+- 📱 **Responsive UI** that looks great on mobile, tablet, and desktop (mobile-first layouts)  
+- 🎬 **Animated websites** with smooth micro-interactions, page transitions, and modern motion effects  
+- 🧩 **Reusable components** using modern patterns, clean architecture, and performance-first code  
+- 🔐 **Auth, APIs & dashboards** — real-world MERN projects with secure flows and solid UX  
+
 
 ---
 
