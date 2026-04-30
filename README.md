@@ -22,7 +22,7 @@
 ---
 
 ## 🤝 Let’s Connect
-- 🌐 Portfolio: https://afaq-resume.vercel.app/
+- 🌐 Portfolio: [https://afaq-resume.vercel.app/](https://afaq-dev-resume.vercel.app/)
 - 💼 LinkedIn: https://www.linkedin.com/in/afaqy/
 - 💬 WhatsApp: https://wa.me/923129113445
 
